@@ -1,0 +1,6 @@
+{
+  "name": "AetherAI",
+  "description": "A premium futuristic landing page for a cutting-edge AI startup, featuring interactive 3D Spline elements, deep-space glassmorphic card layouts, stats dashboard, and modern layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
