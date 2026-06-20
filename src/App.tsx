@@ -181,8 +181,8 @@ function AppContent() {
                           PROCESSING REQUESTS
                         </span>
                         <span className="block text-xl font-extrabold text-white">
-                          2.4M<span className="text-sm font-medium text-purple-300">/day</span>
-                        </span>
+                         Live
+                         </span>
                       </div>
                     </Card>
                   </motion.div>
@@ -224,9 +224,9 @@ function AppContent() {
                           <span className="block text-[8px] font-mono tracking-widest text-[#cbc3d7]/50 uppercase">
                             AI AGENTS ACTIVE
                           </span>
-                          <span className="block text-sm sm:text-base font-extrabold text-purple-300">
-                            +128%
-                          </span>
+                         <span className="block text-sm sm:text-base font-extrabold text-purple-300">
+                             Beta
+                               </span>
                         </div>
                       </Card>
                     </motion.div>
@@ -251,7 +251,7 @@ function AppContent() {
                             AUTOMATION SUCCESS
                           </span>
                           <span className="block text-sm sm:text-base font-extrabold text-cyan-400">
-                            98.7%
+                           New
                           </span>
                         </div>
                       </Card>
