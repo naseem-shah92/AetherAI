@@ -1,20 +1,57 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <h1>AetherAI</h1>
+  <p><b>Build Smarter Products with AI</b></p>
 </div>
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+AetherAI is a premium, futuristic landing page built for a cutting-edge AI startup. It combines interactive 3D visuals, glassmorphic "deep-space" card layouts, a live stats dashboard, and a modern component-driven UI to give AI products a strong first impression.
 
-View your app in AI Studio: https://ai.studio/apps/63a070c6-4611-429b-8b80-f44977102f06
+## Features
 
-## Run Locally
+- 🎨 Deep-space glassmorphic design system
+- 🧊 Interactive 3D elements powered by Spline
+- 📊 Animated stats / status dashboard section
+- ⚡ Smooth motion & micro-interactions (Framer Motion)
+- 🧩 Modular, reusable React component architecture
+- 🔐 Sign-in view and interactive dialogs
+- 🤖 Server-side Gemini API integration
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
+- **Frontend:** React 19 + TypeScript
+- **Bundler:** Vite 6
+- **Styling:** Tailwind CSS 4
+- **Animation:** Framer Motion / Motion
+- **3D:** Spline (`@splinetool/react-spline`)
+- **Icons:** Lucide React
+- **AI:** Google Gemini API (`@google/genai`)
+- **Server:** Express
+
+## Getting Started
+
+**Prerequisites:** Node.js (v18+ recommended)
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+   npm install
+```
+2. Set your Gemini API key in `.env.local`:
+
+3. Run the app locally:
+```bash
+   npm run dev
+```
+4. Build for production:
+```bash
+   npm run build
+```
+
+## Author
+
+**Muhammad Aaban Shah**
+Full Stack Web Developer
+
+## License
+
+This project is provided as-is for demonstration and portfolio purposes.

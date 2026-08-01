@@ -1,7 +1,10 @@
 {
-  "name": "react-example",
-  "private": true,
+  "name": "aetherai",
   "version": "0.0.0",
+  "description": "A premium futuristic landing page for a cutting-edge AI startup, featuring interactive 3D Spline elements, deep-space glassmorphic card layouts, and a live stats dashboard.",
+  "author": "Muhammad Aaban Shah",
+  "license": "MIT",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
